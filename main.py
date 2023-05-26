@@ -1,3 +1,9 @@
+##      dBBBBb dBBBBBb    dBP dBBBBb       dBP dBP dBBBBP
+##     dB          dBP           dBP        dbdBP dBP.BP 
+##    dB dBBB  dBBBBK   dBP dBP dBP         dBBP dBP.BP 
+##   dB   BB  dBP  BB  dBP dBP dBP dBBBBBP  dBP dBP.BP  
+##  dBBBBBB  dBP  dB  dBP dBP dBP          dBP dBBBBP  
+
 with open('binary_to_btf.txt', 'rb') as f:
   data = f.read()
 
